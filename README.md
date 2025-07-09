@@ -6,8 +6,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**AdidasFrontEnd** is a web application developed to clone the Adidas website, showcasing modern web technologies and a responsive design. The project is aimed at enhancing my front-end development skills while providing a familiar shopping experience for users. 💻👟
-
 ## Table of Contents
 - [Project Description](#project-description)
 - [Features](#features)
@@ -15,7 +13,7 @@
 
 ## Project Description
 
-AdidasFrontEnd is designed to replicate the user interface and functionality of the Adidas online store. By utilizing React for component-based architecture and Tailwind CSS for styling, this project aims to deliver an engaging and responsive shopping experience that mimics the original website.
+A front-end project inspired by the Adidas website, designed and built independently. Focuses on responsive design and web functionality.
 
 ## Features
 - Responsive design that adapts to various screen sizes
