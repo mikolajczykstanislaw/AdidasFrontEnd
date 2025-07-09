@@ -13,7 +13,11 @@
 
 ## Project Description
 
-A front-end project inspired by the Adidas website, designed and built independently. Focuses on responsive design and web functionality.
+A front-end project inspired by
+the Adidas website, designed and
+built independently. Focuses on
+responsive design and web
+functionality.
 
 ## Features
 - Responsive design that adapts to various screen sizes
